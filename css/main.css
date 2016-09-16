@@ -1,5 +1,7 @@
 *{
 	box-sizing: content-box;
+	color: black;
+	font-family: Verdana;
 	text-align: center;
 }
 
@@ -12,28 +14,28 @@
 }
 
 .colored-circles {
-	padding: 70px 0 50px 0;
-	width: 70%;
+	padding: 0 5%;
 	margin: auto;
+	width: 70%;
 }
 
 .contenedor{
 	margin: auto;
-	padding: 0 5%;
+	padding: 5% 5%;
 }
 
 .formulario{
-	text-align: center;
 	margin: auto;
+	text-align: center;
 	width: 20%;
 }
 
 .circle{
-	width: 150px;
-	height: 150px;
 	border-radius: 50%;
 	display: inline-block;
+	height: 150px;
 	margin: 20px;
+	width: 150px;
 }
 
 #blue {
@@ -49,10 +51,9 @@
 }
 
 #color, #cri, #super-cri{
-	width: 100px;
 	height: 30px;
-	text-align: center;
 	margin: 10px 0 0 0;
+	width: 100px;
 }
 
 .border-blue {
