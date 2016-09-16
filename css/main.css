@@ -1,0 +1,68 @@
+*{
+	box-sizing: content-box;
+	text-align: center;
+}
+
+.circle {
+	border: 2px solid black;
+	border-radius: 100%;
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+}
+
+.colored-circles {
+	padding: 70px 0 50px 0;
+	width: 70%;
+	margin: auto;
+}
+
+.contenedor{
+	margin: auto;
+	padding: 0 5%;
+}
+
+.formulario{
+	text-align: center;
+	margin: auto;
+	width: 20%;
+}
+
+.circle{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	display: inline-block;
+	margin: 20px;
+}
+
+#blue {
+	background-color: lightblue;
+}
+
+#green {
+	background-color: lightgreen;
+}
+
+#yellow {
+	background-color: #ff6;
+}
+
+#color, #cri, #super-cri{
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	margin: 10px 0 0 0;
+}
+
+.border-blue {
+	border: 5px solid blue;
+}
+
+.border-green {
+	border: 5px solid green;
+}
+
+.border-yellow {
+	border: 5px solid yellow;
+}
